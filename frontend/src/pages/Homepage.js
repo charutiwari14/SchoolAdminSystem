@@ -17,9 +17,9 @@ const Homepage = () => {
                         <StyledTitle>
                             Welcome to
                             <br />
-                            School Management
+                            School Manager
                             <br />
-                            System
+                            Pro
                         </StyledTitle>
                         <StyledText>
                             Streamline school management, class organization, and add students and faculty.
