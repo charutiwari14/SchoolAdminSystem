@@ -58,6 +58,6 @@ The Backend API will be running at `localhost:5000`.
 
 # Deployment
 * Render - server side
-* Netlify - client side
+* Vercel - client side
 
 # SchoolAdminSystem
